@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Dresbach&layout=compact&hide_border=true&title_color=00ABF7&text_color=00ABF7&bg_color=0d1117" />
 </div>
 
-![Snake animation](https://github.com/Jean-Dresbach/Jean-Dresbach/blob/output/github-contribution-grid-snake.svg)
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 
