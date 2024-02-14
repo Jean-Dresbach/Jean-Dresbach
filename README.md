@@ -12,7 +12,7 @@
 
 - 🗣**Languages ​​I Speak:** Portuguese-Brazil (native) and English (advanced)
 - ⚡**Hobbies:** I love Playing 🎮Videogames, Watching 🎥Series and Movies, 🎤Singing, 🏃Exercing, ...
-- 🤔**Curiosity:** My favorite :man_technologist:programming language is CSS.
+- 🤔**Curiosity:** My favorite :man_technologist:programming language is Typescript.
 - 🏫 I am currently part of Growdev's 16th Edition of the Starter Program Web Full Stack Class
 
 
