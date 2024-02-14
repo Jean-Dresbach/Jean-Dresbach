@@ -16,25 +16,30 @@
 - 🏫 I am currently part of Growdev's 16th Edition of the Starter Program Web Full Stack Class
 
 
-<h3 align="left">🌱 I’m currently learning</h3>
-<div>
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<h3 align="left">🎓 I’m currently learning</h3>
+
+![React](https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-f5d742?style=for-the-badge&logo=javascript&logoColor=black)
+![Typesript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+![Express](https://img.shields.io/badge/Express-f54842?style=for-the-badge&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+
+  
+
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
 
-<h3 align="left">🎓 I will learn</h3>
-<div align="left">
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
+<h3 align="left">🌱 I’m currently learning</h3>
+
+![Prisma](https://img.shields.io/badge/Prisma-11384e?style=for-the-badge&logo=prisma&logoColor=white)
 
 <h3>Conect with me!<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80px"></h3>
 <div align="left"> 
-  <a href = "mailto:jean.rafael.dresbach@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jean.rafael.dresbach@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%e34133?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jean-dresbach-a98a90293" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
