@@ -16,9 +16,9 @@
 - 🏫 I am currently part of Growdev's 16th Edition of the Starter Program Web Full Stack Class
 
 
-<h3 align="left">🎓 I’m currently learning</h3>
+<h3 align="left">🎓 Techs I use</h3>
 
-![React](https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-149eca?style=for-the-badge&logo=react&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-f5d742?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typesript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
