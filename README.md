@@ -28,10 +28,13 @@
 ![Node](https://img.shields.io/badge/Node-3c823b?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7c10f1?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-11384e?style=for-the-badge&logo=prisma&logoColor=white)
 
 <h3 align="left">🌱 I’m currently learning</h3>
 
-![Prisma](https://img.shields.io/badge/Prisma-11384e?style=for-the-badge&logo=prisma&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=Redux)
+![Material-UI](https://img.shields.io/badge/Material--UI-%23007FFF?style=for-the-badge&logo=Mui&logoColor=%23fff)
+
 
 <h3>Conect with me!<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80px"></h3>
 <div align="left"> 
