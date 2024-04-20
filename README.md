@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3232a8&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2C77EE,90:80FFE8&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ABF7&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Jean+Rafael+Dresbach;I'm+21+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -43,4 +43,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3232a8&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2C77EE,90:80FFE8&height=120&section=footer"/>
