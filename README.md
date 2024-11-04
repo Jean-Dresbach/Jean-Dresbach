@@ -34,7 +34,7 @@
 
 <h3 align="left">🌱 I’m currently learning</h3>
 
-
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=%23fff)
 
 
 <h3>Conect with me!<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80px"></h3>
