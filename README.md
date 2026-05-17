@@ -48,5 +48,10 @@
   <a href="https://www.linkedin.com/in/jean-rafael-dresbach" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Jean-Dresbach/Jean-Dresbach/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2C77EE,90:80FFE8&height=120&section=footer"/>
